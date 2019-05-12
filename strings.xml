@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!--Categories-->
+    <string name="category_okc">OKC</string>
+    <string name="category_thingstodo">Things To Do</string>
+    <string name="category_goodeats">Good Eats</string>
+    <string name="category_funfacts">Fun Facts</string>
+
+    <string name="cityscape">City Scape</string>
+    <string name="oklahoma_city">Oklahoma City</string>
+    <string name="heading">Heading</string>
+    <string name="details">Details</string>
+
+    <!-- Vocabulary for FunFacts Fragment-->
+    <string name="funfacts_worlds_largest_totem_pole_address"> World\'s Largest Totem Pole \n Hwy 28A Foyil, OK 74017</string>
+    <string name="funfacts_totem"> Totem Pole Park</string>
+    <string name="funfacts_lakes"> Lakes</string>
+    <string name="funfacts_manmade"> Only State with 200 man made Lakes.</string>
+    <string name="funfacts_alabaster">The world\'s largest deposit of Alabaster \n 32 RR 1 Box, Freedom OK 73842</string>
+    <string name="funfacts_caverns"> Alabaster Caverns State Park</string>
+
+    <!-- Vocabulary for OKC Fragment-->
+    <string name="okc_city">Oklahoma City with a population of 1.3m is the largest
+        city in Oklahoma with many things to see and do.</string>
+    <string name="okc_boomer_sooner"> Boomer Sooner</string>
+    <string name="okc_thunder">Thunder Up!!! \n Chesapeake Energy Arena OKC</string>
+    <string name="okc_basketball">Oklahoma City Thunder Basketball Team</string>
+    <string name="okc_garden"> 17-acre botanical garden and interactive urban park
+                \n 301 W Reno, OKC, OK 73102"</string>
+    <string name="okc_myriad">Myriad Botanical Gardens</string>
+    <string name="okc_run">Run to remember</string>
+    <string name="okc_marathon">Oklahoma City Memorial Marathon</string>
+    <string name="okc_fair_grounds">3001 General Pershing Blvd, OKC, OK 73107</string>
+    <string name="okc_fair">Oklahoma State Fair</string>
+
+    <!-- Vocabulary for GoodEats Fragment-->
+    <string name="goodeats_mall">Penn Square Mall \n 1845 NW Expressway OKC, OK 73118</string>
+    <string name="goodeats_whiskey_cake">Whiskey Cake</string>
+    <string name="goodeats_address">5907 NW Expressway, OKC, OK 73132</string>
+    <string name="goodeats_charleston">Charleston\'s Restaurant</string>
+    <string name="goodeats_devon">333 W Sheridan Avenue \n 49th Floor of Devon Tower, OKC, OK 73102</string>
+    <string name="goodeats_vast">Vast</string>
+    <string name="goodeats_waffle_address">1212 N Walker Ave #100, OKC, OK 73103</string>
+    <string name="goodeats_waffle_champion">Waffle Champion OKC</string>
+
+    <!-- Vocabulary for TTD Fragment-->
+    <string name="ttd_museum_address">1700 NE 63rdSt,OKC,OK 73111</string>
+    <string name="ttd_cowboy_museum">National Cowboy &amp; Western Heritage Museum</string>
+    <string name="ttd_native">Celebrating Native American culture and history
+        \n 867 Cooper Memorial Dr, Sulphur, OK 73086"</string>
+    <string name="ttd_cultural_center"> Chickasaw Cultural Center</string>
+    <string name="ttd_food_truck">Largest monthly food truck festival \n 815 N Hudson Ave, OKC 73102</string>
+    <string name="ttd_h8th">H&amp;8th NightMarket</string>
+    <string name="ttd_mountains">Wichita Mountains \n Comanche County, Oklahoma</string>
+    <string name="ttd_refuge">WildLife Refuge</string>
+</resources>
